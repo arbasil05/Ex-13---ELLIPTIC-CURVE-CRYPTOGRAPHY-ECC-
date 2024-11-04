@@ -1,8 +1,8 @@
 # Ex - 13 - MESSAGE AUTHENTICATION CODE(MAC)
 
 ```
-Name: Oswald Shilo
-Register No : 212223040139
+Name: Abdur Rahman Basil A H
+Register No : 212223040002
 ```
 
 ## Aim:
@@ -95,6 +95,7 @@ int main() {
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/6dd2a8d7-dfa1-436d-afb4-e16d5a0fcc2b)
 
 
 ## RESULT:
